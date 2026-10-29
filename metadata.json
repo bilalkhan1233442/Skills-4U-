@@ -1,0 +1,7 @@
+{
+  "name": "TradePro Academy",
+  "description": "Premium trading course platform for Crypto, Forex, and Binary Trading education from top traders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
